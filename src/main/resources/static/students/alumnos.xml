@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school-data>
+    <alumnos>
+        <alumno id="1" nombre="JOAQUIN" apellido="FERNANDEZ">
+            <materias>
+                <materia id="LLM"/>
+                <materia id="ISO"/>
+            </materias>
+        </alumno>
+        <alumno id="2" nombre="PERICO" apellido="GUTIERREZ">
+            <materias>
+                <materia id="FH"/>
+                <materia id="PAX"/>
+            </materias>
+        </alumno>
+    </alumnos>
+    <materias>
+        <materia id="LLM">
+            Llenguatge de marques
+        </materia>
+        <materia id="ISO">
+            Implementació de sistemes operatius
+        </materia>
+        <materia id="FH">
+            Fundamentos de hardware
+        </materia>
+        <materia id="PAX">
+            Planificacio i administracio de xarxes
+        </materia>
+    </materias>
+</school-data>
